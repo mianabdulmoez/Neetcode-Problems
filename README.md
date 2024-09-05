@@ -27,7 +27,7 @@ This repository contains solutions to a variety of problems from NeetCode, a res
 
 For questions or suggestions, please open an issue in the repository or contact me at.
 Twitter: @[abdul_moez1](https://twitter.com/abdul_moez1)
-LinkedIn: @[abdulmoeez1]([url](https://www.linkedin.com/in/abdulmoeez1/))
+LinkedIn: @[abdulmoeez1](https://www.linkedin.com/in/abdulmoeez1/)
 Email: abdulmoeez.contact@gmail.com
 
 

@@ -1,7 +1,3 @@
-Here’s a description you can use for your GitHub repository dedicated to NeetCode problems:
-
----
-
 ## NeetCode Problems
 
 This repository contains solutions to a variety of problems from NeetCode, a resource aimed at helping individuals prepare for coding interviews and improve their problem-solving skills. The solutions here cover a range of topics, including data structures, algorithms, and other fundamental concepts.
